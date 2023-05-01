@@ -6,4 +6,4 @@
 1. 새 Repo 개설(README.md)
 2. contributor로부터 온 PR 확인 및 처리
 3. 원본 Repo 를 local Repo에 동기화하여 작업
-3-1 Repo 충돌 방생시 해결
+3-1. Repo 충돌 방생시 해결
